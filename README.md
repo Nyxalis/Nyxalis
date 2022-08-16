@@ -6,7 +6,7 @@
 
 ### :technologist: About Me :
 
-I am a Full Stack Developer from Sri Lanka but in the Uk.
+I am a Semi-Full Stack Developer from Sri Lanka but in the Uk.
 
 - :telescope: I work at Hostious, Shardnodes as a developer and at Hycrion & Votion development as support.
 
@@ -14,7 +14,9 @@ I am a Full Stack Developer from Sri Lanka but in the Uk.
 
 - :zap: I like contibuting to OpenSource Repos and helping others.
 
-- :mailbox:How to reach me: DM on discord, tye#6365 
+- :mailbox: How to reach me: DM on discord, tye#6365 
+
+- :job: I am looking for paid work. Please DM if you consider hiring me. tye#6365
 
 ---
 
