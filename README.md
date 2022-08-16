@@ -20,6 +20,9 @@ I am a Semi-Full Stack Developer from Sri Lanka but in the Uk.
 
 ---
 
+- I am not new to GitHub, my old github [account](https://github.com/Juice2007)
+
+---
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
