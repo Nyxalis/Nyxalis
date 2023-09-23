@@ -43,9 +43,6 @@ I am a Semi-Full Stack Developer from Sri Lanka but in the Uk.
 </div>
 
 ---
-
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TyeWillCode&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TyeWillCode&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/741337166172389407)](https://discord.com/users/741337166172389407)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nyxalis&theme=dark&background=000000)](https://git.io/streak-stats)
