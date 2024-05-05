@@ -6,17 +6,17 @@
 
 ### :technologist: About Me :
 
-I am a Semi-Full Stack Developer from Sri Lanka but in the Uk.
+I am a Backend Developer from Sri Lanka but in the Uk.
 
-- :telescope: I work at Hostious, Shardnodes as a developer and at Hycrion & Votion development as support.
+- :telescope: I work at https://pylexnodes.net, a free server hosting service.
 
-- :seedling: I am also a photographer and video editer but I only do it for fun and when I have nothing to do.
+- :seedling: I am also a photographer and gamer.
 
 - :zap: I like contibuting to OpenSource Repos and helping others.
 
-- :mailbox: How to reach me: DM on discord, tye#6365 
+- :mailbox: How to reach me: DM on discord, nyxalis. 
 
-- :job: I am looking for paid work. Please DM if you consider hiring me. tye#6365
+- :job: I am looking for paid work. Please DM if you consider hiring me. nyxalis.
 
 ---
 
