@@ -6,6 +6,11 @@
                 "name": "Ubuntu 22.04",
                 "vmid": 1000,
                 "link": "https://images.cdn.convoypanel.com/ubuntu/ubuntu-22-04-amd64.vma.zst"
+            },
+            {
+                "name": "Ubuntu 24.04",
+                "vmid": 1003,
+                "link": "https://images.cdn.convoypanel.com/ubuntu/ubuntu-24-04-amd64.vma.zst"
             }
         ]
     },
@@ -16,6 +21,11 @@
                 "name": "Debian 11",
                 "vmid": 1001,
                 "link": "https://images.cdn.convoypanel.com/debian/debian-11-amd64.vma.zst"
+            },
+            {
+                "name": "Debian 12",
+                "vmid": 4001,
+                "link": "https://images.cdn.convoypanel.com/debian/debian-12-amd64.vma.zst"
             }
         ]
     }
