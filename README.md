@@ -1,55 +1,64 @@
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/hUIn2yoj36JkzmEdE2/giphy.gif" width="100"/>
+  <h1>Hi there, I'm Nyxalis 👋</h1>
+  <div>
+    <a href="https://discord.com/users/741337166172389407">
+      <img src="https://img.shields.io/badge/Discord-nyxalis-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+    </a>
+    <a href="https://github.com/Nyxalis">
+      <img src="https://img.shields.io/badge/GitHub-Nyxalis-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+    </a>
+  </div>
 </div>
 
----
+## 👨‍💻 About Me
 
-### :technologist: About Me :
+Backend Developer based in the UK, originally from Sri Lanka. I enjoy solving complex problems and building reliable, scalable systems.
 
-I am a Backend Developer from Sri Lanka but in the Uk.
+- 🔭 Exploring backend technologies and contributing to open-source projects
+- 📸 Photography enthusiast and avid gamer in my free time
+- 🌱 Constantly learning and improving my skills in Python and DevOps
+- 🤝 Passionate about helping others and contributing to open-source communities
+- ℹ️ Previously active on GitHub as [Juice2007](https://github.com/Juice2007)
 
-- :telescope: I work at https://pylexnodes.net, a free server hosting service.
+## 🛠️ Tech Stack
 
-- :seedling: I am also a photographer and gamer.
-
-- :zap: I like contibuting to OpenSource Repos and helping others.
-
-- :mailbox: How to reach me: DM on discord, nyxalis. 
-
-- :job: I am looking for paid work. Please DM if you consider hiring me. nyxalis.
-
----
-
-- I am not new to GitHub, my old github [account](https://github.com/Juice2007)
-
----
-### :hammer_and_wrench: Languages and Tools :
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="html" alt="html" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="css" alt="css" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-plain.svg" title="gitlab" alt="gitlab" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="wordpress" alt="wordpress" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-plain.svg" title="woocommerce" alt="woocommerce" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="tailwindcss" alt="tailwindcss" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="raspberrypi" alt="raspberrypi" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="oracle" alt="oracle" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
+  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 </div>
 
+## 🚀 Projects & Contributions
+
+I'm currently working on various backend projects and expanding my knowledge in cloud technologies. Check out my repositories to see what I'm building!
+
+## 🔥 GitHub Stats
+
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Nyxalis&theme=dark&background=000000" alt="GitHub Streak" />
+</div>
+
+## 📨 Contact Me
+
+- Discord: [nyxalis](https://discord.com/users/741337166172389407)
+- GitHub: [@Nyxalis](https://github.com/Nyxalis)
+
+## 💡 Did you know?
+
+[WispByte](https://wispbyte.com/) offers free hosting for your projects. It's a reliable service trusted by thousands of developers!
+
 ---
-### :fire: My Stats :
-[![Discord Presence](https://lanyard.cnrad.dev/api/741337166172389407)](https://discord.com/users/741337166172389407)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nyxalis&theme=dark&background=000000)](https://git.io/streak-stats)
 
-
-
-
-
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/Nyxalis/Nyxalis/main/rickroll_4k.jpg');]{x0000}$}
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nyxalis&style=flat-square&color=blue" alt="Profile Views"/>
+</div>
