@@ -1,9 +1,9 @@
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/hUIn2yoj36JkzmEdE2/giphy.gif" width="100"/>
-  <h1>Hi there, I'm Nyxalis 👋</h1>
+  <h1>Hi there, I'm Arqbyte. 👋</h1>
   <div>
     <a href="https://discord.com/users/741337166172389407">
-      <img src="https://img.shields.io/badge/Discord-nyxalis-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+      <img src="https://img.shields.io/badge/Discord-arqbyte.-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
     </a>
     <a href="https://github.com/Nyxalis">
       <img src="https://img.shields.io/badge/GitHub-Nyxalis-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
@@ -50,7 +50,7 @@ I'm currently working on various backend projects and expanding my knowledge in 
 
 ## 📨 Contact Me
 
-- Discord: [nyxalis](https://discord.com/users/741337166172389407)
+- Discord: [Arqbyte.](https://discord.com/users/741337166172389407)
 - GitHub: [@Nyxalis](https://github.com/Nyxalis)
 
 ## 💡 Did you know?
